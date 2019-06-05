@@ -619,12 +619,12 @@ input, select, textarea {
 	}
 
 /* Box */
-
+.orange {color:#F3C309;}
 	.box {
-		/*background: #ffffff;*/
+		background: #1f26ff;
 		color: #39454b;
 		padding: 2em;
-		background-color: rgba(255, 255, 255, 0.5);
+		/*background-color: rgba(255, 255, 255, 0.5);*/
 	}
 
 		.box > :last-child {
