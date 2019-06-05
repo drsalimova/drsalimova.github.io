@@ -71,7 +71,9 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
+#contact form > .fields > .field.half {
+    width: calc(25% - 0.75em);
+}
 /* Basic */
 
 	@-ms-viewport {
