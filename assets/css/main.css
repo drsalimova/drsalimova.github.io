@@ -1432,7 +1432,7 @@ input, select, textarea {
     width: 65%;
 }
 #workspikers article.from-right {
-    width: 65% !important;
+    width: 65% !important;    text-align: -webkit-left;
 }
 #workspikers .gallery article {
     -moz-transition: -moz-transform 1s ease, opacity 1s ease;
