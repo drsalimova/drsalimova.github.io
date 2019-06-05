@@ -625,10 +625,10 @@ input, select, textarea {
 #contact .box {
 		background: #fff !important;}	
 .box {
-		background: #1f26ff;
+		/*background: #1f26ff;*/
 		color: #39454b;
 		padding: 2em;
-		/*background-color: rgba(255, 255, 255, 0.5);*/
+		background-color: rgba(37,62,149, 0.7);
 	}
 
 		.box > :last-child {
@@ -647,7 +647,7 @@ input, select, textarea {
 
 				.box.style2 {
 					padding: 1.5em 1.25em 1.5em 1.25em;
-					background-color: rgba(255, 255, 255, 0.5);
+					background-color: rgba(37,62,149, 0.7);
 				}
 
 		}
