@@ -29,6 +29,11 @@ p.forumdata {
     font-size: 20px;
     font-weight: 700;
 }
+p.hotelall {
+    color: #fff;
+    /*font-size: 20px;*/
+    font-weight: 700;
+}
 body {
 	line-height: 1;
 }
