@@ -622,7 +622,9 @@ input, select, textarea {
 
 /* Box */
 .orange {color:#F3C309;}
-	.box {
+#contact .box {
+		background: #fff;}	
+.box {
 		background: #1f26ff;
 		color: #39454b;
 		padding: 2em;
